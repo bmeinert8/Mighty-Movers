@@ -9,7 +9,7 @@
 }
 
 .nav-edit{
-    background-color: aliceblue;
+    background-color: rgb(240, 243, 255);
     font-size: 18px;
     font-weight: bold;
 }
@@ -17,4 +17,46 @@
 .nav-item-edit:hover{
     text-decoration: underline;
     text-underline-offset: 0.5rem;
+}
+
+.about-img {
+    border-radius: 1rem;
+}
+
+.about-btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-edit{
+    background-color: #ffe605;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.btn-edit:hover{
+    background-color: #ffdb58;
+}
+
+body{
+    background-color: #fcf7ec;
+}
+
+.p-edit{
+    font-weight: 400;
+}
+
+.container-edit{
+    margin-top: 8rem;
+    display: flex;
+    justify-content: center;
+}
+
+.title-edit{
+    font-weight: bolder;
 }
