@@ -60,3 +60,9 @@ body{
 .title-edit{
     font-weight: bolder;
 }
+
+.about-header{
+    display:flex;
+    justify-content: center;
+    height: 5vh;
+}
