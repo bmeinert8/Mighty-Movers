@@ -66,3 +66,22 @@ body{
     justify-content: center;
     height: 5vh;
 }
+.card-edit{
+    padding-top : 2rem;
+    margin-top: 0;
+}
+.card-edit:hover{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.icon-edit{
+    height: 60px;
+    width: 60px;
+    border-radius: 2rem;
+    background-color: #d5d5d4;
+}
+
+#move-info{
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
