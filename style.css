@@ -9,7 +9,7 @@
 }
 
 .nav-edit{
-    background-color: rgb(240, 243, 255);
+    background-color: #ffdb58;
     font-size: 18px;
     font-weight: bold;
 }
@@ -104,13 +104,13 @@ body{
 .phone:hover{
     background-color: transparent;
     color:#000;
-    cursor: default;
+    cursor: text;
 }
 
 .phone:active{
     background-color: transparent;
     color:#000;
-    cursor: default;
+    cursor: text;
 }
 
 .phone-edit{
