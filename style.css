@@ -30,7 +30,7 @@
 }
 
 .btn-edit{
-    background-color: #ffe605;
+    background-color: #05cdff;
     color: black;
     font-size: 18px;
     font-weight: bold;
@@ -40,7 +40,8 @@
 }
 
 .btn-edit:hover{
-    background-color: #ffdb58;
+    background-color: #7decf4;
+    color:#000;
 }
 
 body{
@@ -84,4 +85,38 @@ body{
 #move-info{
     margin-top: 2rem;
     margin-bottom: 3rem;
+}
+
+.email{
+    margin-right: 10px
+}
+.phone{
+    background-color: transparent;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.phone:hover{
+    background-color: transparent;
+    color:#000;
+    cursor: default;
+}
+
+.phone:active{
+    background-color: transparent;
+    color:#000;
+    cursor: default;
+}
+
+.phone-edit{
+    margin-right: 15px;
+}
+
+.contact-container{
+    background-color: #ffdb58;
 }
