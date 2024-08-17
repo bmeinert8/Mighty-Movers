@@ -134,3 +134,11 @@ body{
     margin-right: 20px;
     font-weight: bold;
 }
+
+h4{
+    margin-bottom: 2rem;
+}
+
+.moving-edit{
+    border-radius: 1.5rem;
+}
