@@ -120,3 +120,17 @@ body{
 .contact-container{
     background-color: #ffdb58;
 }
+
+.rental{
+    margin-bottom: 3rem
+}
+
+.trucks-edit{
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+}
+
+.list-edit{
+    margin-right: 20px;
+    font-weight: bold;
+}
